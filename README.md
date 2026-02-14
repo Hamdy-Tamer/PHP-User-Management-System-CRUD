@@ -29,9 +29,9 @@ A complete PHP/MySQL CRUD application for managing user records with server-side
 - **Table:** users
 - **Fields:** id, first_name, last_name, phone, email, gender, created_at
 
-## Technologies Used
-- PHP (MySQLi)
-- MySQL
-- Bootstrap 5
-- Font Awesome 6
-- HTML5/CSS3
+  ## Technologies Used
+- 🐘 PHP (MySQLi)
+- 🗄️ MySQL
+- 🅱️ Bootstrap 5
+- 🎯 Font Awesome 6
+- 🌐 HTML5 / 🎨 CSS3
